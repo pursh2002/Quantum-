@@ -9,3 +9,4 @@ http://www.c-sharpcorner.com/article/understanding-q-programming-language/
 
 https://www.youtube.com/watch?v=JRIPV0dPAd4
 
+https://www.youtube.com/watch?v=yy6TV9Dntlw
