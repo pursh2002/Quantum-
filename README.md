@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=yy6TV9Dntlw
 https://www.youtube.com/watch?v=LhtnECml-KI
 
 https://github.com/microsoft/quantum
+
+http://tph.tuwien.ac.at/~oemer/qcl.html
