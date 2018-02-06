@@ -4,3 +4,8 @@ https://github.com/QISKit/qiskit-sdk-py#installation
 https://quantumexperience.ng.bluemix.net/qx/experience
 https://www.mathstat.dal.ca/~selinger/quipper/
 
+http://www.c-sharpcorner.com/article/understanding-q-programming-language/
+
+
+https://www.youtube.com/watch?v=JRIPV0dPAd4
+
