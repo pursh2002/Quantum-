@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=JRIPV0dPAd4
 https://www.youtube.com/watch?v=yy6TV9Dntlw
 
 https://www.youtube.com/watch?v=LhtnECml-KI
+
+https://github.com/microsoft/quantum
