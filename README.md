@@ -14,4 +14,5 @@
 * https://www.youtube.com/playlist?list=PLeCFWdLZpnW9pZ3uwNU3ANxd7UB-44v_n
 * https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 * https://quantumcurriculum.mit.edu
+* https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/
 
