@@ -11,5 +11,6 @@
 * https://cs.uwaterloo.ca/~watrous/LectureNotes.html
 * http://www.theory.caltech.edu/people/preskill/ph229/
 * https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x
+* https://www.youtube.com/playlist?list=PLeCFWdLZpnW9pZ3uwNU3ANxd7UB-44v_n
 
 
