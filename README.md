@@ -13,4 +13,5 @@
 * https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x
 * https://www.youtube.com/playlist?list=PLeCFWdLZpnW9pZ3uwNU3ANxd7UB-44v_n
 * https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+* https://quantumcurriculum.mit.edu
 
