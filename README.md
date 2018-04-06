@@ -7,5 +7,9 @@
 * https://courses.edx.org/courses/course-v1:DelftX+QTM1x+1T2018/course/
 * http://www.mit.edu/~aram/advice/quantum.html
 * https://medium.com/@johncoogan/the-best-resources-for-learning-about-quantum-computing-4fcc9f3cbe56
+* https://docs.google.com/presentation/d/1_8oZ7MR60l59yFfZvmcUhBBFdCXrUIDoqyBhuUpl9bU/mobilepresent?slide=id.g716057ee7_0_141
+* https://cs.uwaterloo.ca/~watrous/LectureNotes.html
+* http://www.theory.caltech.edu/people/preskill/ph229/
+* https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x
 
 
