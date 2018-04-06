@@ -5,5 +5,6 @@
 * https://www.youtube.com/watch?v=S52rxZG-zi0
 * https://quantumexperience.ng.bluemix.net/qx/experience
 * https://courses.edx.org/courses/course-v1:DelftX+QTM1x+1T2018/course/
+* http://www.mit.edu/~aram/advice/quantum.html
 
 
