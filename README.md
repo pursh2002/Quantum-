@@ -15,4 +15,5 @@
 * https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 * https://quantumcurriculum.mit.edu
 * https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/
+* https://www.jeremyjordan.me/neural-networks-training/
 
